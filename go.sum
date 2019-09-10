@@ -1,5 +1,5 @@
-github.com/HydroProtocol/hydro-sdk-backend v0.0.39 h1:bjPY4BFV6HeS2uyimtxM47FX9oi5XQ6dMrqClKlBlrM=
-github.com/HydroProtocol/hydro-sdk-backend v0.0.39/go.mod h1:W65yZJcRbBL1jcvJmduFnPqYJuKB7ifzW0OpHX/DWMg=
+github.com/wanchain/dex-sdk-backend v0.0.39 h1:bjPY4BFV6HeS2uyimtxM47FX9oi5XQ6dMrqClKlBlrM=
+github.com/wanchain/dex-sdk-backend v0.0.39/go.mod h1:W65yZJcRbBL1jcvJmduFnPqYJuKB7ifzW0OpHX/DWMg=
 github.com/aead/siphash v1.0.1/go.mod h1:Nywa3cDsYNNK3gaciGTWPwHt0wlpNV15vwmswBAUSII=
 github.com/btcsuite/btcd v0.0.0-20190115013929-ed77733ec07d h1:xG8Pj6Y6J760xwETNmMzmlt38QSwz0BLp1cZ09g27uw=
 github.com/btcsuite/btcd v0.0.0-20190115013929-ed77733ec07d/go.mod h1:d3C0AkH6BRcvO8T0UEPu53cnw4IbV63x1bEjildYhO0=

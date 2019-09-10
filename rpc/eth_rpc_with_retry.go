@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk"
+	"github.com/wanchain/dex-sdk-backend/sdk"
 	"time"
 )
 

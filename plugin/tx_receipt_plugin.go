@@ -1,8 +1,8 @@
 package plugin
 
 import (
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk"
-	"github.com/HydroProtocol/hydro-sdk-backend/sdk/ethereum"
+	"github.com/wanchain/dex-sdk-backend/sdk"
+	"github.com/wanchain/dex-sdk-backend/sdk/ethereum"
 	"github.com/HydroProtocol/nights-watch/structs"
 	"math/big"
 
