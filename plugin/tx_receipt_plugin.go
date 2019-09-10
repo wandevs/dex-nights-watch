@@ -3,10 +3,10 @@ package plugin
 import (
 	"github.com/wanchain/dex-sdk-backend/sdk"
 	"github.com/wanchain/dex-sdk-backend/sdk/ethereum"
-	"github.com/HydroProtocol/nights-watch/structs"
+	"github.com/wanchain/dex-nights-watch/structs"
 	"math/big"
 
-	//"github.com/HydroProtocol/nights-watch/utils"
+	//"github.com/wanchain/dex-nights-watch/utils"
 	"github.com/shopspring/decimal"
 )
 

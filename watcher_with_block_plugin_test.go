@@ -3,8 +3,8 @@ package nights_watch
 import (
 	"context"
 	"fmt"
-	"github.com/HydroProtocol/nights-watch/plugin"
-	"github.com/HydroProtocol/nights-watch/structs"
+	"github.com/wanchain/dex-nights-watch/plugin"
+	"github.com/wanchain/dex-nights-watch/structs"
 	"testing"
 )
 

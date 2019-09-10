@@ -5,9 +5,9 @@ import (
 	"context"
 	"fmt"
 	"github.com/wanchain/dex-sdk-backend/sdk"
-	"github.com/HydroProtocol/nights-watch/plugin"
-	"github.com/HydroProtocol/nights-watch/rpc"
-	"github.com/HydroProtocol/nights-watch/structs"
+	"github.com/wanchain/dex-nights-watch/plugin"
+	"github.com/wanchain/dex-nights-watch/rpc"
+	"github.com/wanchain/dex-nights-watch/structs"
 	"sync"
 	"time"
 )

@@ -1,4 +1,4 @@
-module github.com/HydroProtocol/nights-watch
+module github.com/wanchain/dex-nights-watch
 
 go 1.12
 

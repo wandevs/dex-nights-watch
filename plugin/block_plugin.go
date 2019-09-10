@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/HydroProtocol/nights-watch/structs"
+	"github.com/wanchain/dex-nights-watch/structs"
 )
 
 type IBlockPlugin interface {
