@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/wanchain/dex-sdk-backend/sdk"
+	"github.com/wandevs/dex-sdk-backend/sdk"
 	"time"
 )
 

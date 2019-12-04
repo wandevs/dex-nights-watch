@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/wanchain/dex-nights-watch/structs"
+	"github.com/wandevs/dex-nights-watch/structs"
 )
 
 type IBlockPlugin interface {

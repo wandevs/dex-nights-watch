@@ -3,9 +3,9 @@ package nights_watch
 import (
 	"context"
 	"fmt"
-	"github.com/wanchain/dex-sdk-backend/sdk"
-	"github.com/wanchain/dex-nights-watch/plugin"
-	"github.com/wanchain/dex-nights-watch/structs"
+	"github.com/wandevs/dex-sdk-backend/sdk"
+	"github.com/wandevs/dex-nights-watch/plugin"
+	"github.com/wandevs/dex-nights-watch/structs"
 	"github.com/labstack/gommon/log"
 	"github.com/shopspring/decimal"
 	"testing"

@@ -1,12 +1,12 @@
 package plugin
 
 import (
-	"github.com/wanchain/dex-sdk-backend/sdk"
-	"github.com/wanchain/dex-sdk-backend/sdk/ethereum"
-	"github.com/wanchain/dex-nights-watch/structs"
+	"github.com/wandevs/dex-sdk-backend/sdk"
+	"github.com/wandevs/dex-sdk-backend/sdk/ethereum"
+	"github.com/wandevs/dex-nights-watch/structs"
 	"math/big"
 
-	//"github.com/wanchain/dex-nights-watch/utils"
+	//"github.com/wandevs/dex-nights-watch/utils"
 	"github.com/shopspring/decimal"
 )
 

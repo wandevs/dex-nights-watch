@@ -1,6 +1,6 @@
 package structs
 
-import "github.com/wanchain/dex-sdk-backend/sdk"
+import "github.com/wandevs/dex-sdk-backend/sdk"
 
 type RemovableBlock struct {
 	sdk.Block

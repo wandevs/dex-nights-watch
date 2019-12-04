@@ -3,7 +3,7 @@ package nights_watch
 import (
 	"context"
 	"fmt"
-	"github.com/wanchain/dex-nights-watch/plugin"
+	"github.com/wandevs/dex-nights-watch/plugin"
 	"testing"
 	"time"
 )

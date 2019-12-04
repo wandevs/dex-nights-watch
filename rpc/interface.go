@@ -1,6 +1,6 @@
 package rpc
 
-import "github.com/wanchain/dex-sdk-backend/sdk"
+import "github.com/wandevs/dex-sdk-backend/sdk"
 
 type IBlockChainRPC interface {
 	GetCurrentBlockNum() (uint64, error)

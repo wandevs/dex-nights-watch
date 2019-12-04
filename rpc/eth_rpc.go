@@ -1,8 +1,8 @@
 package rpc
 
 import (
-	"github.com/wanchain/dex-sdk-backend/sdk"
-	"github.com/wanchain/dex-sdk-backend/sdk/ethereum"
+	"github.com/wandevs/dex-sdk-backend/sdk"
+	"github.com/wandevs/dex-sdk-backend/sdk/ethereum"
 	"github.com/onrik/ethrpc"
 )
 
