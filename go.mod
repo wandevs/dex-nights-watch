@@ -11,4 +11,4 @@ require (
 	github.com/sirupsen/logrus v1.4.1 // indirect
 )
 
-// replace github.com/wandevs/dex-sdk-backend => ./hydro-sdk-backend
+replace github.com/wandevs/dex-sdk-backend => ./dex-sdk-backend
